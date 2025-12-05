@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Im a student at HTL-Leonding
-
-
+Student & programmer. Mostly C#, also dabble in Java and JS.
 
 <!--
 **adirnberger-htl/adirnberger-htl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
